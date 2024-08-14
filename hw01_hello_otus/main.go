@@ -6,6 +6,5 @@ import (
 )
 
 func main() {
-
 	fmt.Print(reverse.String("Hello, OTUS!"))
 }
